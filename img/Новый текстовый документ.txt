@@ -1,0 +1,41 @@
+.name {
+	font-family: 'Montserrat', sans-serif;
+	width: 400px;
+	color: white;
+	
+}
+
+.wrapper {
+	margin-top: 166px;
+	margin-left: 50px;
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+.about {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	color: white;
+	width: 400px;
+}
+
+.btn {
+	font-family: 'Montserrat', sans-serif;
+	background: #49b6cc;
+	color:  #fff;
+	border-radius: 100px;
+	display: block;
+	width: 205px;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.aboutsmm span {
+	color: #48ed8e;
+}
+
+.smmpic {
+
+}
